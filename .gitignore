@@ -1,0 +1,10 @@
+# Fitxers temporals
+*.tmp
+*.log
+
+# Configuració local
+.env
+
+# Fitxers del sistema
+.DS_Store
+Thumbs.db
