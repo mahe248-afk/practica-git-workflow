@@ -7,6 +7,7 @@ Projecte de pràctiques per treballar amb Git de manera col·laborativa.
 ## Col·laboradors
 
 * mahe248-afk
+* joma280-glitch
 
 ## Normes de treball
 
@@ -18,3 +19,9 @@ Projecte de pràctiques per treballar amb Git de manera col·laborativa.
 ## Funcionalitats desenvolupades
 
 Les diferents branques afegiran aquí la informació corresponent a les modificacions realitzades, indicant el nom de la branca, una descripció dels canvis i la data i hora.
+
+### Incorporació d'un nou col·laborador
+* Autor: joma280-glitch
+* Branca: 'feature/afegir-collaborador'
+* Descripció: afegir joma280-glitch a la llista de col·laboradors
+* Data i hora: 2026-10-05 16:07
