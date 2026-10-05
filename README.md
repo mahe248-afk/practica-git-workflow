@@ -18,7 +18,8 @@ Projecte de pràctiques per treballar amb Git de manera col·laborativa.
 ## Funcionalitats desenvolupades
 
 Les diferents branques afegiran aquí la informació corresponent a les modificacions realitzades, indicant el nom de la branca, una descripció dels canvis i la data i hora.
+
 ## Branca: feature/primera-funcionalitat
 
-- Descripció: Afegida la primera funcionalitat del projecte.
-- Data i hora: 04/10/2026
+* Descripció: Afegida la primera funcionalitat del projecte.
+* Data i hora: 04/10/2026 17:00
