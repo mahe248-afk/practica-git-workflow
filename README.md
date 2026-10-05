@@ -32,4 +32,7 @@ Les diferents branques afegiran aquí la informació corresponent a les modifica
 * Descripció: afegir joma280-glitch a la llista de col·laboradors
 * Data i hora: 2026-10-05 16:07
 
+## Branca: feature/segunda-funcionalitat
 
+* Descripció: Afegida la segona funcionalitat del projecte.
+* Data i hora: 05/10/2026 17:00
