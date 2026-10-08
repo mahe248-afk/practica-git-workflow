@@ -33,3 +33,8 @@ Les diferents branques afegiran aquí la informació corresponent a les modifica
 * Data i hora: 2026-10-05 16:07
 
 
+### Branca: feature/tercera-funcionalitat
+* Autor: joma280-glitch
+* Branca: 'feature/tercera-funcionalitat'
+* Descripció: crear un fitxer guia-git.md amb els comandaments bàsics de Git.
+* Data i hora: 2026-10-05 19:47
